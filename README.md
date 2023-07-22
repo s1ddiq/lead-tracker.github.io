@@ -1,2 +1,1 @@
-The Extension Designed for marketers.
--LEAD TRACKER-
+Bookmark your tabs in just one single click with this lead tracker.
