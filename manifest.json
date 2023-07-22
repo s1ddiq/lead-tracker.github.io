@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Lead Tracker",
+    "description": "In Beta Stages | V1.0 | This extension will grab the website your on, and save it when you click the save tab button! This can be very useful for marketers such as going on craigslist. Developed by Siddiq.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs",
+        "storage"
+    ]
+}
